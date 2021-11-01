@@ -1,0 +1,16 @@
+C:\Users\amore\RiderProjects\soft-arch-encapsulation-cpp\Modules-2-assignment\bin\Debug\net5.0\Modules-2-assignment.exe
+C:\Users\amore\RiderProjects\soft-arch-encapsulation-cpp\Modules-2-assignment\bin\Debug\net5.0\Modules-2-assignment.deps.json
+C:\Users\amore\RiderProjects\soft-arch-encapsulation-cpp\Modules-2-assignment\bin\Debug\net5.0\Modules-2-assignment.runtimeconfig.json
+C:\Users\amore\RiderProjects\soft-arch-encapsulation-cpp\Modules-2-assignment\bin\Debug\net5.0\Modules-2-assignment.runtimeconfig.dev.json
+C:\Users\amore\RiderProjects\soft-arch-encapsulation-cpp\Modules-2-assignment\bin\Debug\net5.0\Modules-2-assignment.dll
+C:\Users\amore\RiderProjects\soft-arch-encapsulation-cpp\Modules-2-assignment\bin\Debug\net5.0\ref\Modules-2-assignment.dll
+C:\Users\amore\RiderProjects\soft-arch-encapsulation-cpp\Modules-2-assignment\bin\Debug\net5.0\Modules-2-assignment.pdb
+C:\Users\amore\RiderProjects\soft-arch-encapsulation-cpp\Modules-2-assignment\obj\Debug\net5.0\Modules-2-assignment.csproj.AssemblyReference.cache
+C:\Users\amore\RiderProjects\soft-arch-encapsulation-cpp\Modules-2-assignment\obj\Debug\net5.0\Modules-2-assignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\amore\RiderProjects\soft-arch-encapsulation-cpp\Modules-2-assignment\obj\Debug\net5.0\Modules-2-assignment.AssemblyInfoInputs.cache
+C:\Users\amore\RiderProjects\soft-arch-encapsulation-cpp\Modules-2-assignment\obj\Debug\net5.0\Modules-2-assignment.AssemblyInfo.cs
+C:\Users\amore\RiderProjects\soft-arch-encapsulation-cpp\Modules-2-assignment\obj\Debug\net5.0\Modules-2-assignment.csproj.CoreCompileInputs.cache
+C:\Users\amore\RiderProjects\soft-arch-encapsulation-cpp\Modules-2-assignment\obj\Debug\net5.0\Modules-2-assignment.dll
+C:\Users\amore\RiderProjects\soft-arch-encapsulation-cpp\Modules-2-assignment\obj\Debug\net5.0\ref\Modules-2-assignment.dll
+C:\Users\amore\RiderProjects\soft-arch-encapsulation-cpp\Modules-2-assignment\obj\Debug\net5.0\Modules-2-assignment.pdb
+C:\Users\amore\RiderProjects\soft-arch-encapsulation-cpp\Modules-2-assignment\obj\Debug\net5.0\Modules-2-assignment.genruntimeconfig.cache

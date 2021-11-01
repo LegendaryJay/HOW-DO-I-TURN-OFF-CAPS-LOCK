@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Modules-2-assignment/1.0.0": {
+        "runtime": {
+          "Modules-2-assignment.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Modules-2-assignment/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
